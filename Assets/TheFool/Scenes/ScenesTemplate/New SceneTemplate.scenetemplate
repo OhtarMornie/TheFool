@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: New SceneTemplate
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 5fff70e381c7d894b9ceeefb25fb9c79, type: 3}
+  templateName: ACSampleScene
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: baa501b5f8bf0384885cd647b3aef51a, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 8e02cd43349e7466f93bf719f9db9fad, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: d0ce2316f76b6704d8ecef6ae2a138e5, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: a382d15559a7f4142b779456429986b2, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 2de7d16b4ac4b402182d4f2ca40e0b2d, type: 3}
+    instantiationMode: 0
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
