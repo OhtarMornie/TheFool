@@ -84,7 +84,7 @@ MonoBehaviour:
   dragThreshold: 0
   maxInventorySlots: 0
   shareInventory: 0
-  inventoryDragDrop: 0
+  inventoryDragDrop: 1
   dragDropThreshold: 0
   allowInventoryInteractionsDuringConversations: 0
   inventoryDropLook: 0

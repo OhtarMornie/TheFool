@@ -5,9 +5,51 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_MainStreet.unity
+    guid: bde3ec8d740d3a0489ac1ce3aac5f98f
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_Shop.unity
+    guid: f3f3585327b21a345af3933550ef0ce3
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_Ellevation.unity
+    guid: c89fdab4595c6394fa32fdfdaa2dd060
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_Crossroads.unity
+    guid: 0da15987a7791174dbe697cbf7a590ab
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_Outskirts.unity
+    guid: 7539114a61d82df4bbeb6ba8138d687d
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_Bridge.unity
+    guid: 8dcaa581b79cd964bbf118934bf8d9d4
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_CityHall.unity
+    guid: c5be721a9e0eea042840af8421fcc46e
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_Doors.unity
+    guid: c4779696622427640b4c4e569931b0fd
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_GiliermosRoom.unity
+    guid: ea6d925e604b41f439bd4de08f2883b2
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_Outskirts.unity
+    guid: 9e3aecb8b84f79440b863c2115bf773c
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_Pit.unity
+    guid: ea390a00b44fb8c49b3cf64598f25347
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_SunMoon.unity
+    guid: a692b28d584800b418b24c56dc70c7a0
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_SunMoon2.unity
+    guid: 8710707756d5aef4ab8b965c81f7e7c9
+  - enabled: 1
+    path: Assets/TheFool/Scenes/Scene_Balcony.unity
+    guid: 4cd9811f0433edb4b8de1d112bce6e72
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -1986,7 +1986,7 @@ MonoBehaviour:
   canvas: {fileID: 22300000, guid: f8aee2353822ebc4fb2c85fa519b77c8, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22400036, guid: f8aee2353822ebc4fb2c85fa519b77c8, type: 3}
   rectTransformID: 1765320
   uiTransitionType: 1
   uiPositionType: 0
@@ -2016,7 +2016,7 @@ MonoBehaviour:
   - {fileID: -491973206761792160}
   - {fileID: -3887667916024381701}
   transitionProgress: 0
-  appearType: 1
+  appearType: 0
   speechMenuType: 0
   speechMenuLimit: 0
   limitToCharacters: 
