@@ -229,13 +229,18 @@ MonoBehaviour:
   autoCallUnloadUnusedAssets: 1
   playMusicWhilePaused: 0
   playAmbienceWhilePaused: 0
-  musicStorages: []
+  musicStorages:
+  - ID: 0
+    label: GilermosRoomDEMO
+    audioClip: {fileID: 8300000, guid: 8c1c9897a0129744280a3ecb4c061c25, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages: []
   loadAmbienceFadeTime: 0
   crossfadeAmbienceWhenLoading: 0
   restartAmbienceTrackWhenLoading: 0
   loadMusicFadeTime: 0
-  crossfadeMusicWhenLoading: 0
+  crossfadeMusicWhenLoading: 1
   restartMusicTrackWhenLoading: 0
   autoEndOtherMusicWhenPlayed: 1
   musicPrefabOverride: {fileID: 0}

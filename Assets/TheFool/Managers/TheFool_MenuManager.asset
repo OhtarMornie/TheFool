@@ -720,7 +720,7 @@ MonoBehaviour:
   numSlots: 1
   uiTextTMP: {fileID: 0}
   hideScrollingCharacters: 0
-  uiText: {fileID: 0}
+  uiText: {fileID: 11400000, guid: ffe32c3c11a43424e8af7840567d4f73, type: 3}
   _label: Dialogue text
   anchor: 0
   textEffects: 0
@@ -4590,7 +4590,7 @@ MonoBehaviour:
   numSlots: 1
   uiTextTMP: {fileID: 0}
   hideScrollingCharacters: 0
-  uiText: {fileID: 0}
+  uiText: {fileID: 11400002, guid: ffe32c3c11a43424e8af7840567d4f73, type: 3}
   _label: Speaker
   anchor: 4
   textEffects: 0
@@ -7090,7 +7090,7 @@ MonoBehaviour:
   canvas: {fileID: 22300000, guid: ffe32c3c11a43424e8af7840567d4f73, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22400004, guid: ffe32c3c11a43424e8af7840567d4f73, type: 3}
   rectTransformID: 14532472
   uiTransitionType: 1
   uiPositionType: 0
