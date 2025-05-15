@@ -235,6 +235,21 @@ MonoBehaviour:
     audioClip: {fileID: 8300000, guid: 8c1c9897a0129744280a3ecb4c061c25, type: 3}
     relativeVolume: 1
     overrideMixerGroup: {fileID: 0}
+  - ID: 1
+    label: Calm
+    audioClip: {fileID: 8300000, guid: 842a4ed0a118bf842bed7ef1479b0180, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 2
+    label: Endlless
+    audioClip: {fileID: 8300000, guid: f3be3a2076150b844a531e8b18521ff2, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
+  - ID: 3
+    label: Badland
+    audioClip: {fileID: 8300000, guid: 511af2590a81f554599348bf572edfca, type: 3}
+    relativeVolume: 1
+    overrideMixerGroup: {fileID: 0}
   ambienceStorages: []
   loadAmbienceFadeTime: 0
   crossfadeAmbienceWhenLoading: 0
