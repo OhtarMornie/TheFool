@@ -152,6 +152,17 @@ MonoBehaviour:
     axisThreshold: 0.2
     buttonType: 0
     hasUpgraded: 1
+  - label: Objective
+    ID: 2
+    inputName: Objective
+    enabledOnStart: 1
+    gameState: 0
+    gameStateFlags: -1
+    actionListAsset: {fileID: 11400000, guid: c575b02faa9e8c644af023a8d2afe6ea, type: 2}
+    inputType: 0
+    axisThreshold: 0.2
+    buttonType: 0
+    hasUpgraded: 1
   surfaces: []
   freeAimTouchSpeed: 0.01
   dragWalkThreshold: 5

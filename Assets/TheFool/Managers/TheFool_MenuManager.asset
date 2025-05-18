@@ -288,7 +288,7 @@ MonoBehaviour:
   canvas: {fileID: 22300000, guid: 84b1044a8816e7b4594fae2d6a0be807, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22400014, guid: 84b1044a8816e7b4594fae2d6a0be807, type: 3}
   rectTransformID: 15198304
   uiTransitionType: 1
   uiPositionType: 2
@@ -461,7 +461,7 @@ MonoBehaviour:
   canvas: {fileID: 6533498990535238339, guid: 28a568b9ea222f94ebe550aa5051ce19, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 6533498990535142299, guid: 28a568b9ea222f94ebe550aa5051ce19, type: 3}
   rectTransformID: 19572
   uiTransitionType: 0
   uiPositionType: 0
@@ -585,7 +585,7 @@ MonoBehaviour:
   canvas: {fileID: 22300000, guid: 2bc7df307b2b6e04a8c57968427fa102, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22400018, guid: 2bc7df307b2b6e04a8c57968427fa102, type: 3}
   rectTransformID: 14169666
   uiTransitionType: 1
   uiPositionType: 0
@@ -1141,7 +1141,7 @@ MonoBehaviour:
   canvas: {fileID: 22396742, guid: bd56662f641a67f44ab8e654cbf0bff0, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22461366, guid: bd56662f641a67f44ab8e654cbf0bff0, type: 3}
   rectTransformID: 74892
   uiTransitionType: 0
   uiPositionType: 0
@@ -1530,7 +1530,7 @@ MonoBehaviour:
   canvas: {fileID: 22306536, guid: c7327d020464e6f478c3564b84f48a27, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22406576, guid: c7327d020464e6f478c3564b84f48a27, type: 3}
   rectTransformID: 340762
   uiTransitionType: 0
   uiPositionType: 0
@@ -1826,6 +1826,71 @@ MonoBehaviour:
   multiplyByItemCount: 0
   inventoryPropertyType: 0
   selectedObjectiveLabelType: 0
+  itemSlotNumber: 0
+  uiComponentHideStyle: 0
+--- !u!114 &-4053463486653874524
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86ae5c94351944600a4b0aec144476b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ID: 10
+  title: Subdiscription
+  slotSize: {x: 10, y: 5}
+  sizeType: 0
+  positionType: 0
+  slotSpacing: 0
+  lineID: -1
+  alternativeInputButton: 
+  font: {fileID: 0}
+  fontScaleFactor: 2
+  fontColor: {r: 1, g: 1, b: 1, a: 1}
+  fontHighlightColor: {r: 1, g: 1, b: 1, a: 1}
+  isVisible: 1
+  isClickable: 0
+  orientation: 1
+  gridWidth: 3
+  backgroundTexture: {fileID: 0}
+  singleSlotBackgrounds: 0
+  highlightTexture: {fileID: 0}
+  hoverSound: {fileID: 0}
+  clickSound: {fileID: 0}
+  changeCursor: 0
+  cursorID: 0
+  linkedUiID: 16482
+  maxAutoWidthFactor: 0.5
+  relativeRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  relativePosition: {x: 0, y: 0}
+  numSlots: 1
+  uiTextTMP: {fileID: 0}
+  hideScrollingCharacters: 0
+  uiText: {fileID: 0}
+  _label: Label
+  anchor: 4
+  textEffects: 0
+  outlineSize: 2
+  effectColour: {r: 0, g: 0, b: 0, a: 1}
+  labelType: 8
+  variableID: 0
+  useCharacterColour: 0
+  autoAdjustHeight: 1
+  updateIfEmpty: 0
+  showPendingWhileMovingToHotspot: 0
+  itemPropertyID: 0
+  multiplyByItemCount: 0
+  inventoryPropertyType: 0
+  selectedObjectiveLabelType: 3
   itemSlotNumber: 0
   uiComponentHideStyle: 0
 --- !u!114 &-4013745600442867801
@@ -2285,7 +2350,7 @@ MonoBehaviour:
   canvas: {fileID: 22300000, guid: 5b4fbc905d148b94f976a2b1ba96708e, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22400024, guid: 5b4fbc905d148b94f976a2b1ba96708e, type: 3}
   rectTransformID: 1386510
   uiTransitionType: 1
   uiPositionType: 0
@@ -2420,7 +2485,7 @@ MonoBehaviour:
     height: 30
   relativePosition: {x: 0, y: 0}
   numSlots: 1
-  uiButton: {fileID: 0}
+  uiButton: {fileID: 11400020, guid: 09abbabc2d7f23d43bf3fec8b8093d1f, type: 3}
   uiPointerState: 0
   _label: Options
   hotspotLabel: 
@@ -4035,7 +4100,7 @@ MonoBehaviour:
   canvas: {fileID: 22300000, guid: 7e820549e70719d4c8b28c5cf9eb5b39, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22400028, guid: 7e820549e70719d4c8b28c5cf9eb5b39, type: 3}
   rectTransformID: 276360
   uiTransitionType: 1
   uiPositionType: 0
@@ -4760,7 +4825,7 @@ MonoBehaviour:
   canvas: {fileID: 22300000, guid: 28c264c348dc42a43b43fc11948e15e3, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22475392, guid: 28c264c348dc42a43b43fc11948e15e3, type: 3}
   rectTransformID: 87948
   uiTransitionType: 1
   uiPositionType: 1
@@ -5957,7 +6022,7 @@ MonoBehaviour:
     height: 30
   relativePosition: {x: 0, y: 0}
   numSlots: 1
-  uiButton: {fileID: 0}
+  uiButton: {fileID: 11400030, guid: 09abbabc2d7f23d43bf3fec8b8093d1f, type: 3}
   uiPointerState: 0
   _label: Resume
   hotspotLabel: 
@@ -6265,7 +6330,7 @@ MonoBehaviour:
   canvas: {fileID: 22350434, guid: 0123c393153d49442aa6d7c75c83e73d, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22414944, guid: 0123c393153d49442aa6d7c75c83e73d, type: 3}
   rectTransformID: 80694
   uiTransitionType: 1
   uiPositionType: 0
@@ -6277,13 +6342,13 @@ MonoBehaviour:
   manualPosition: {x: 400, y: 300}
   positionSmoothing: 0
   alignment: 0
-  toggleKey: 
+  toggleKey: Objective
   ignoreMouseClicks: 0
   pauseWhenEnabled: 0
   showWhenPaused: 0
   canClickInCutscene: 0
   enabledOnStart: 0
-  actionListOnTurnOn: {fileID: 11400000, guid: d6e82570a45d62a47b55d5f6f4aa3269, type: 2}
+  actionListOnTurnOn: {fileID: 0}
   actionListOnTurnOff: {fileID: 0}
   updateWhenFadeOut: 1
   hideDuringSaveScreenshots: 1
@@ -6298,6 +6363,7 @@ MonoBehaviour:
   - {fileID: 2926750811787594721}
   - {fileID: 6085619518365977853}
   - {fileID: -6253389175391005371}
+  - {fileID: -4053463486653874524}
   - {fileID: -5966405725377420837}
   - {fileID: 5036818762682912202}
   transitionProgress: 0
@@ -6319,6 +6385,7 @@ MonoBehaviour:
   - {fileID: 2926750811787594721}
   - {fileID: 6085619518365977853}
   - {fileID: -6253389175391005371}
+  - {fileID: -4053463486653874524}
   - {fileID: -5966405725377420837}
   - {fileID: 5036818762682912202}
   spacing: 0.5
@@ -6557,7 +6624,7 @@ MonoBehaviour:
   canvas: {fileID: 22300000, guid: 9c11dcb930013d44096e019d104721d2, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22400014, guid: 9c11dcb930013d44096e019d104721d2, type: 3}
   rectTransformID: 698818
   uiTransitionType: 1
   uiPositionType: 0
@@ -7515,7 +7582,7 @@ MonoBehaviour:
   canvas: {fileID: 22300000, guid: 0a02713d6aea51c4a9e746d531a41642, type: 3}
   canvasAssetKey: 
   canvasID: 0
-  rectTransform: {fileID: 0}
+  rectTransform: {fileID: 22400000, guid: 0a02713d6aea51c4a9e746d531a41642, type: 3}
   rectTransformID: 13953742
   uiTransitionType: 1
   uiPositionType: 0
